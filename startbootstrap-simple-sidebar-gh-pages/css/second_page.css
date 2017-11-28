@@ -23,6 +23,9 @@ h3{text-align:center;
   padding:20px;
 }
 
+img{max-width: 100%;   
+}
+
 .row{
   border: solid grey;
   border-radius: 25px;
