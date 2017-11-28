@@ -1,0 +1,21 @@
+.header{
+	font-family: 'Amatic SC', cursive;
+	color: white;
+}
+
+.about {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.portfolio {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.portfolio-item {
+  color: white;
+  font-family: 'Amatic SC', cursive;
+}
+
+.sidebar-nav {
+	font-family: 'Josefin Sans', sans-serif;
+}
