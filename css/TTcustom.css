@@ -37,3 +37,9 @@ footer {
 footer h2 {
 	font-family: 'Amatic SC', cursive;
 }
+
+textarea {
+	width: 300px;
+	height: 150px;
+	position: center;
+}
