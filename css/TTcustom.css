@@ -14,6 +14,7 @@
 .portfolio-item {
   color: white;
   font-family: 'Amatic SC', cursive;
+  position: relative;
 }
 
 .sidebar-nav {
