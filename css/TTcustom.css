@@ -28,3 +28,11 @@
 	transform: translate(-50%,-50%);
 	margin: 0;
 }
+
+footer {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+footer h4 {
+	font-family: 'Amatic SC', cursive;
+}
